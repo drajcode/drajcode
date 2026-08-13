@@ -4,17 +4,6 @@
 
 ### 🎓 MCA Student | 🤖 AI & ML | 💻 Developer | 🎬 Video Editor
 
-<p>
-  <a href="https://github.com/drajcode">
-    <img src="https://img.shields.io/badge/GitHub-drajcode-181717?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-  <a href="https://www.linkedin.com/in/drajcode/">
-    <img src="https://img.shields.io/badge/LinkedIn-drajcode-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="https://x.com/drajdivu">
-    <img src="https://img.shields.io/badge/X-@drajdivu-000000?style=for-the-badge&logo=x&logoColor=white" />
-  </a>
-</p>
 
 </div>
 
@@ -34,7 +23,7 @@ I enjoy **learning by building**, experimenting with new technologies, and turni
 
 <table>
 <tr>
-<td width="50%">
+<td >
 
 ### 🤖 AI & Machine Learning
 
@@ -46,7 +35,7 @@ I enjoy **learning by building**, experimenting with new technologies, and turni
 
 </td>
 
-<td width="50%">
+<td >
 
 ### 💻 Development
 
@@ -57,10 +46,8 @@ I enjoy **learning by building**, experimenting with new technologies, and turni
 * APIs & Automation
 
 </td>
-</tr>
 
-<tr>
-<td width="50%">
+<td >
 
 ### 🛠️ Projects
 
@@ -72,7 +59,7 @@ I enjoy **learning by building**, experimenting with new technologies, and turni
 
 </td>
 
-<td width="50%">
+<td >
 
 ### 🎬 Creative
 
